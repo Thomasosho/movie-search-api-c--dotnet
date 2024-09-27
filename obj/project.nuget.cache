@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUaOFl/9I2E=",
+  "success": true,
+  "projectFilePath": "/Users/oshiomogwemeh/Documents/MovieSearchApp/MovieSearchApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/oshiomogwemeh/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.8/microsoft.aspnetcore.jsonpatch.8.0.8.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.8/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.8.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/swashbuckle.aspnetcore/6.8.0/swashbuckle.aspnetcore.6.8.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/swashbuckle.aspnetcore.swagger/6.8.0/swashbuckle.aspnetcore.swagger.6.8.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.8.0/swashbuckle.aspnetcore.swaggergen.6.8.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.8.0/swashbuckle.aspnetcore.swaggerui.6.8.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/oshiomogwemeh/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
